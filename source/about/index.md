@@ -1,5 +1,5 @@
 ---
-title: 我的简历
+title: 关于我
 date: 2017-07-04 21:42:53
 type: "about"
 comments: false
