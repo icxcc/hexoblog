@@ -1,5 +1,7 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+tags: 
+categories: 
+#分类名称
 ---
