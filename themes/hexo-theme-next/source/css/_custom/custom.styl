@@ -1,13 +1,24 @@
 // Custom styles.
-
+//导航菜单
+.menu .menu-item a:hover {
+    background: #428bca;
+	color: #eee;
+}
+.header-inner {
+    padding: 5px 0 5px;
+}
 // 主页文章添加阴影效果
 .post {
-   margin-top: 60px;
-   margin-bottom: 60px;
+   margin-top: 30px;
+   margin-bottom: 30px;
    padding: 25px;
    -webkit-box-shadow: 0 0 5px rgba(202, 203, 203, .5);
    -moz-box-shadow: 0 0 5px rgba(202, 203, 204, .5);
  }
+ 
+.posts-expand .post {
+    margin-top: 60px;
+}
 
 //修改文章内链接文本样式
 .post-body p a {
@@ -59,6 +70,48 @@ a#download {
 		background: #000;
 		color: #eee;
 	}
+}
+
+.post-button .btn {
+	color: #fff;
+	font-size: 14px;
+	background: transparent;
+	border-radius: 0;
+	line-height: 2;
+	margin: 0 4px 8px 4px;
+	background-color: #428bca;
+	padding-left: 5px;
+    padding-right: 5px;
+	&:hover {
+		background: #eee;
+		color: #428bca;
+	}
+}
+.post-button a {
+	margin: 0 8px 8px 0 !important;
+	padding: 0;
+	font-size: 14px;
+	color: #428bca;
+	background: none;
+	border: 0;
+	transition-property: border;
+}
+.btn {
+	display: inline-block;
+	padding: 0 20px;
+	font-size: 14px;
+	color: #fff;
+	background: #222;
+	border: 0px solid #428bca;
+	text-decoration: none;
+	border-radius: 0;
+	transition-property: background-color;
+	transition-duration: 0.2s;
+	transition-timing-function: ease-in-out;
+	transition-delay: 0s;
+}
+.text-center {
+    text-align: center;
 }
 //
 // 颜色块-黄
@@ -356,6 +409,15 @@ span#yu-1 {
 		top:0px;
 	}
 }
+
+.comments {
+    margin: 10px 0 0;
+}
+
+.valine .info{
+	display:none;
+}
+
 //留言页面-[最近访客]-的样式
 span#yu-2 {
 	display:inline;
