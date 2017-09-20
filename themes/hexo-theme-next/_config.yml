@@ -78,9 +78,9 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
+#scheme: Mist
 #scheme: Pisces
-#scheme: Gemini
+scheme: Gemini
 
 
 # ---------------------------------------------------------------
@@ -106,8 +106,8 @@ social:
 
 social_icons:
   enable: true
-  icons_only: true
-  transition: false
+  icons_only: false
+  transition: true
 
 # Blog rolls
 links_title: 推荐阅读
