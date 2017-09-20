@@ -195,7 +195,7 @@ a#download {
 .text-center {
     text-align: center;
 }
-
+//侧边工具栏样式
 .links-of-blogroll-item a,.links-of-author a,.site-state-item a{
     border-bottom-color: #428bca;
     &:hover {
@@ -216,6 +216,39 @@ a#download {
     cursor: pointer;
     -webkit-transform: translateZ(0);
 }
+
+.sidebar-nav .sidebar-nav-active {
+    color: #2780e3;
+    border-bottom-color: #2780e3;
+	&:hover{
+		color: #2780e3;
+	}
+}
+.sidebar-nav li:hover {
+    color: #2780e3;
+}
+.post-toc .nav .active > a {
+    color: #2780e3;
+    border-bottom-color: #2780e3;
+}
+.post-toc .nav .active-current > a {
+    color: #2780e3;
+}
+.post-toc .nav .active-current > a:hover {
+    color: #2780e3;
+}
+.post-toc ol a {
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+    transition-property: all;
+    color: #999;
+    border: 0;
+	&:hover{
+		color: #2780e3;
+	}
+}
+
 
 .back-to-top{
 	background: #428bca;
