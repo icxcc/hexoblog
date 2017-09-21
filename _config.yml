@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://hxl71.github.io/notesblog/
-root: /notesblog
+url: https://hxl71.github.io/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -69,7 +69,7 @@ theme: hexo-theme-next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hxl71/notesblog.git
+  repo: https://github.com/hxl71/hxl71.github.io.git
   branch: master
 
 index_generator:
