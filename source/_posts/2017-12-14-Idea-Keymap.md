@@ -26,53 +26,23 @@ categories:
 12. Ctrl+Alt+Space 类名或接口名提示
 13. Ctrl+P 方法参数提示
 14. Ctrl+Shift+Alt+N 查找类中的方法或变量
-
-
 15. Alt+Shift+C 对比最近修改的代码
-
-
 16. Shift+F6  重构-重命名
-
-
 17. Ctrl+Shift+先上键
-
-
 18. Ctrl+X 删除行
 
 
 19. Ctrl+D 复制行
-
-
 20. Ctrl+/ 或 Ctrl+Shift+/  注释（// 或者 ）
-
-
 21. Ctrl+J  自动代码
-
-
 22. Ctrl+E 最近打开的文件
-
-
 23. Ctrl+H 显示类结构图
-
-
 24. Ctrl+Q 显示注释文档
-
-
 25. Alt+F1 查找代码所在位置
-
-
 26. Alt+1 快速打开或隐藏工程面板
-
-
 27. Ctrl+Alt+ left/right 返回至上次浏览的位置
-
-
 28. Alt+ left/right 切换代码视图
-
-
 29. Alt+ Up/Down 在方法间快速移动定位
-
-
 30. Ctrl+Shift+Up/Down 代码向上/下移动。
 31. F2 或Shift+F2 高亮错误或警告快速定位
 32. 代码标签输入完成后，按Tab，生成代码。
@@ -82,7 +52,7 @@ categories:
 36. Ctrl+Up/Down 光标跳转到第一行或最后一行下
 37. Ctrl+B 快速打开光标处的类或方法 
 
- 
+
 
 **最常用快捷键**
 
