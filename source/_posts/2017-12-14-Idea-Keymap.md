@@ -18,7 +18,7 @@ categories:
 4. Ctrl+Alt+L  格式化代码
 5. Ctrl+Alt+O 优化导入的类和包
 6. Alt+Insert 生成代码(如get,set方法,构造函数等)
-7. Ctrl+E或者Alt+Shift+C  最近更改的代码
+7. Ctrl+E或者Alt+Shift+C  最近更改的代码<!-- more -->
 8. Ctrl+R 替换文本
 9. Ctrl+F 查找文本
 10. Ctrl+Shift+Space 自动补全代码
@@ -30,8 +30,6 @@ categories:
 16. Shift+F6  重构-重命名
 17. Ctrl+Shift+先上键
 18. Ctrl+X 删除行
-
-
 19. Ctrl+D 复制行
 20. Ctrl+/ 或 Ctrl+Shift+/  注释（// 或者 ）
 21. Ctrl+J  自动代码
