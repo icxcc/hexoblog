@@ -13,11 +13,11 @@ categories:
 
 #####  申请AppID
 
-​    这个直接在[公众号平台][https://mp.weixin.qq.com]申请就可以了；
+​    这个直接在[公众号平台](https://mp.weixin.qq.com)申请就可以了；
 
 ##### 配置域名
 
-  在[公众号平台][https://mp.weixin.qq.com]开发者设置>服务器配置中填写域名信息，这个只能填写真实域名，还需要SSL支持；
+  在[公众号平台](https://mp.weixin.qq.com)开发者设置>服务器配置中填写域名信息，这个只能填写真实域名，还需要SSL支持；
 
 #### 本地开发环境配置
 
@@ -35,7 +35,7 @@ categories:
 
 ##### 2.生成自签名SSL证书
 
-首先需要安装openssl [【点击这里下载】][http://slproweb.com/download/Win64OpenSSL-1_1_0g.exe]，安装好后需要将其配置到环境变量（如果已经安装过openssl自行忽略...）；
+首先需要安装openssl [【点击这里下载】](http://slproweb.com/download/Win64OpenSSL-1_1_0g.exe)，安装好后需要将其配置到环境变量（如果已经安装过openssl自行忽略...）；
 
 __打开命令行工具__
 
@@ -103,7 +103,7 @@ __打开命令行工具__
 
 ##### 3.安装和配置nginx
 
-   完成上面步骤后，接下来配置nginx支持HTTPS，[【下载nginx Windows版】][http://nginx.org/en/download.html]，修改 nginx配置文件nginx-1.13.8\conf\nginx.conf，
+   完成上面步骤后，接下来配置nginx支持HTTPS，[【下载nginx Windows版】](http://nginx.org/en/download.html)，修改 nginx配置文件nginx-1.13.8\conf\nginx.conf，
 
 ```
 server {
