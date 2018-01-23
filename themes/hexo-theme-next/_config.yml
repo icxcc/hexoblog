@@ -340,7 +340,7 @@ valine:
   appkey:  bjeuY3TYPvECgFMq7MSrXrsR
   notify: true # mail notifier , https://github.com/xCss/Valine/wiki
   verify: true # Verification code
-  placeholder: ヾﾉ≧∀≦)o来啊，快活啊!
+  placeholder: ヾﾉ≧∀≦)说点什么吧!
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
