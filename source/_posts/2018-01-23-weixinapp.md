@@ -68,8 +68,8 @@ __打开命令行工具__
    Country Name (2 letter code) [AU]:ZH  【国家代码】
    State or Province Name (full name) [Some-State]:HB【省份】
    Locality Name (eg, city) []:WH【城市】
-   Organization Name (eg, company) [Internet Widgits Pty Ltd]:yuanjilu【组织】
-   Organizational Unit Name (eg, section) []:yuanjilu组织】
+   Organization Name (eg, company) [Internet Widgits Pty Ltd]:cxsky【组织】
+   Organizational Unit Name (eg, section) []:cxsky【组织】
    Common Name (e.g. server FQDN or YOUR name) []:*.yourdomain.com 【可以填域名】
    Email Address []:【Enter】
 
